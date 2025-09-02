@@ -278,23 +278,12 @@ pip install -r requirements-dev.txt
 python -m pytest tests/
 ```
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Kats Framework**: Facebook Research for the comprehensive time series library
 - **Statsmodels**: Statistical modeling and time series analysis
 - **Data Sources**: Indonesia holiday data from timeanddate.com
 - **Open Source Community**: Pandas, NumPy, and scikit-learn contributors
-
-## 📞 Contact
-
-**Project Lead**: [Your Name]  
-**Email**: [your.email@domain.com]  
-**LinkedIn**: [Your LinkedIn Profile]  
-**GitHub**: [Your GitHub Profile]
 
 ---
 
